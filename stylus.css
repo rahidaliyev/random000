@@ -17,4 +17,5 @@ div>p:hover{
     bottom: 5px;
     position: relative;
     cursor: pointer;
+    background-color: rgb(191, 157, 223);
 }
