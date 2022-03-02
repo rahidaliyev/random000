@@ -1,0 +1,20 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+
+}
+.mainus>p{
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 10px;
+
+}
+.mainus>h1{
+    text-align: center;
+    background-color: aquamarine;
+}
+div>p:hover{
+    bottom: 5px;
+    position: relative;
+    cursor: pointer;
+}
